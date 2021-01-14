@@ -29,5 +29,5 @@ The next thing for my Python Password Encryption program is to make it where you
 
 ## Images
 
-![Code](screenshot1)
-![Console Output](screenshot2)
+![Code](screenshot1.png)
+![Console Output](screenshot2.png)
